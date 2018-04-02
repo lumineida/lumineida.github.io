@@ -1,0 +1,21 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+h1 {
+font-family: 'Playball', cursive;
+}
+
+p {
+font-family: 'Playball';
+}
+
+#sa {
+    width:250px;
+    height:250px;
+    border-radius:50%;
+    overflow:hidden;
+}
